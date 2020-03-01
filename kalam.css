@@ -1,0 +1,40 @@
+
+
+#title{
+	height: 150px;
+	font-size: 2em;
+	background-color: #f4f3f3;
+
+}
+#para-color{
+	color: black;
+}
+
+
+#main{
+	
+	display: block;
+	
+}
+
+#image{
+	max-width: 1000px;
+	display: block;
+	height: auto;
+}
+
+#footer{
+	height: 20px;
+	font-size: 1.5em;
+}
+
+#img-caption{
+	font-size: 19px;
+}
+
+#tribute-info{
+	width: 800px;
+	margin-left: 300px;
+	font-size: 21px;
+	background-color: #f4f3f3;
+}
